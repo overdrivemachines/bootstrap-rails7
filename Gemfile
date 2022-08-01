@@ -19,8 +19,6 @@ gem "sassc-rails"
 gem "bootstrap", "~> 5.2.0"
 gem "jquery-rails"
 
-# gem "image_processing", "~> 1.2"
-
 group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 end
