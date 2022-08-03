@@ -1,24 +1,13 @@
-# README
+# Add Bootstrap 5 and Font Awesome 6 to Rails 7
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a good starting point for creating a new app.
 
-Things you may want to cover:
+## Version
+- ruby 3.1.2
+- Rails 7.0.3.1
+- Bootstrap 5.2.0
+- Font Awesome 6.1.2
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Instructions
+I have posted instructions here:
+https://dev.to/overdrivemachines/add-bootstrap-5-and-font-awesome-6-to-rails-7-31b3
