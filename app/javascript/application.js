@@ -7,4 +7,4 @@ import "@fortawesome/fontawesome-free"
 import "@hotwired/turbo-rails"
 import "controllers"
 
-import "./my_script"
+import "my_script"
